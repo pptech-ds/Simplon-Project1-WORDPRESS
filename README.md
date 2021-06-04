@@ -27,6 +27,7 @@
 ![image](https://user-images.githubusercontent.com/61125395/120865664-c2d99780-c58e-11eb-8a8e-97246c1acd5a.png)  
 * Install WordPress, go to: http://localhost/<your-site-name\>, and fill the forms with necessary informations, once it's done you have the see the back-office, and you are ready to build your website! Choose your theme, and necessary plugins, and enjoy it!  
 ![image](https://user-images.githubusercontent.com/61125395/120866019-6f1b7e00-c58f-11eb-856a-7c1bd6f99ac8.png)
+* In case you need to code any additional function, here is the code reference: https://codex.wordpress.org/Function_Reference
 
 
 # Create a new website 
@@ -38,34 +39,9 @@
 * For Plugins I installed "Contact Form 7" for my contact form, and "WooCommerce" to have necessary eCommerce items, like user accounts, shops, carts  
 * The old website had only static pages, they dont differentiate posts and pages, by introspecting  the website I've seen that they have many posts takling about plants and stories about them, for my new website I choosed to create posts and pages instead of keeping only pages.  
 * I choosed also some free and modern pictures to illustrate the posts  
-* About the menu, the old site had many items
+* About the menu, the old site had many items to get access to their different static pages, but by re-working some pages as posts we have less items in the new menu, I choosed to classify the posts by categories instead of adding them into menu. I also added social networks menu in modern way instead of having them in main menu, I choosed FaceBook, Instagram and Twitter for their social networks, because they regulary publish articles, so they can twitt it, they also have many pictures about their plants, so they need also Instagram, and FaceBook to mix both.
+* I also added a shop using plugin "WooCommerce", I added some products as example.  
+* I added also a contact form using plugin "Contact Form 7".  
+* Below picture of my new website:
+![image](https://user-images.githubusercontent.com/61125395/120869173-1d2a2680-c596-11eb-8464-d80df67844e1.png)
 
-
-
-
-* Code reference: https://codex.wordpress.org/Function_Reference
-* download: https://fr.wordpress.org/download/#download-install
-* wordpresss
-    login: 	pras <br>
-    pass: 	BBzLsSLP)2EHX0O*R2 <br>
-    mail: 	pptech.ds@gmail.com <br>
-
-# SQL database
-* from wampserver homepage click on "phpmyadmin"
-* for windows users: login=root / pass=<empty>
-* create new database
-    
-# Projet 1
-* Rebuild an existing website, which is not built in WordPress
-* Check in page source of website if any "wp-" is define, to see if the website is built in WordPress or not
-* I choosed "https://www.pepinieres-baches.com/baches/"
-    
-# For CSS
-* Use bootstrap framework to use most common CSS used on web: https://getbootstrap.com/   
-
-# For Icons
-* Use: https://fontawesome.com/
-    
-# Check synthaxes
-* https://validator.w3.org/
- 
