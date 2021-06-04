@@ -1,4 +1,11 @@
-# Project Specification
+# Table of Contents 
+- [Project-Specification](#Project-Specification) 
+- [WampServer](#WampServer) 
+- [WordPress](#WordPress) 
+- [Project-Specification](#Create-a-New-WebSite) 
+
+
+# Project-Specification
 - Introduction about WAMPSERVER
 - Introduction about WORDPRESS
 - Create a new website for an existing website which is not built with WORDPRESS
@@ -30,7 +37,7 @@
 * In case you need to code any additional function, here is the code reference: https://codex.wordpress.org/Function_Reference
 
 
-# Create a new website 
+# Create-a-New-WebSite 
 * I choosed https://www.pepinieres-baches.com/baches/ as reference to re-build for my project, this is an eCommerce website, selling different types of citruses plants and seeds 
 ![image](https://user-images.githubusercontent.com/61125395/120866588-90309e80-c590-11eb-8d7f-c10df16242e2.png)
 * You can check if the website was built using WordPress or not by seeing the source, check if you have any prefix "wp-"
