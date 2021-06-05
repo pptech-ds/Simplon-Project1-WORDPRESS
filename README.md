@@ -16,10 +16,10 @@
 - In case of issues, go to: https://wampserver.aviatechno.net/, download the tool to analyse issues and patch them, or go at the bottom of the page and download the zip file containing all files and install them one by one
 - Launch the WampServer, you have to see the logo in green in your services:    
 ![image](https://user-images.githubusercontent.com/61125395/120862671-a129e180-c589-11eb-9927-b517dd4fab6b.png)
-- Check WordPress pre-requisities to see which versions of PHP and SQL you need, change it if necessary:  
+- Check WordPress pre-requisities to see which versions of PHP and SQL you need, change them if necessary:  
 ![image](https://user-images.githubusercontent.com/61125395/120863034-31682680-c58a-11eb-9d31-b948da326fdf.png)  
 - Develop your website in "www" repo of your wampserver to get acces to the server  
-- To ease your website access, crete a VirtualHost from localhost:  
+- To ease your website access, create a VirtualHost from localhost:  
 ![image](https://user-images.githubusercontent.com/61125395/120864060-e5b67c80-c58b-11eb-83b5-14e101c1e243.png)  
 - Restart your DNS service to enable your VirtualHost (right click on icon):  
 ![image](https://user-images.githubusercontent.com/61125395/120864238-30d08f80-c58c-11eb-9fad-b58832b274d3.png)  
