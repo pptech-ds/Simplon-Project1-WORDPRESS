@@ -27,7 +27,7 @@
 
 # WordPress
 * Go to: https://fr.wordpress.org/download/ and download the zip file
-* Unzip the WordPress zip file into "www" repo of your WampServer  
+* Unzip the WordPress zip file into "www" repo of your WampServer, rename the repo with the name of your website  
 * Launch PhpMyAdmin from your localhost (For windows users, login is "root" and password is empty ""  
 ![image](https://user-images.githubusercontent.com/61125395/120865285-07b0fe80-c58e-11eb-86e5-fedfec6ce10a.png)  
 * Create a new database, choose the name you want and choose (utf8-general-ci) as encoding
