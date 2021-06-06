@@ -49,7 +49,7 @@
 * About the menu, the old site had many items to get access to their different static pages, but by re-working some pages as posts we have less items in the new menu, I choosed to classify the posts by categories instead of adding them into menu. I also added social networks menu in modern way instead of having them in main menu, I choosed FaceBook, Instagram and Twitter for their social networks, because they regulary publish articles, so they can twitt it, they also have many pictures about their plants, so they need also Instagram, and FaceBook to mix both.
 * I also added a shop using plugin "WooCommerce", I added some products as example.  
 * I added also a contact form using plugin "Contact Form 7".  
-* Below picture of my new website:
+* Below some pictures of my new website:
   * Home Page: on top left social network icons, on top right search bar and shop cart, main menu with only essential topics, slides show of the 4th last posts:  
   ![image](https://user-images.githubusercontent.com/61125395/120910222-54273780-c67d-11eb-955d-d7090ad859d5.png)
   * Widgets with posts categories, last posts, comments and archives:  
