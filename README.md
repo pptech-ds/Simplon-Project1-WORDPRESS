@@ -50,5 +50,13 @@
 * I also added a shop using plugin "WooCommerce", I added some products as example.  
 * I added also a contact form using plugin "Contact Form 7".  
 * Below picture of my new website:
-![image](https://user-images.githubusercontent.com/61125395/120869173-1d2a2680-c596-11eb-8464-d80df67844e1.png)
+  * Home Page: on top left social network icons, on top right search bar and shop cart, main menu with only essential topics, slides show of the 4th last posts:  
+  ![image](https://user-images.githubusercontent.com/61125395/120910222-54273780-c67d-11eb-955d-d7090ad859d5.png)
+  * Widgets with posts categories, last posts, comments and archives:  
+  ![image](https://user-images.githubusercontent.com/61125395/120910258-b1bb8400-c67d-11eb-86a5-acdcc1db86ff.png)
+  * Shop with some products:  
+  ![image](https://user-images.githubusercontent.com/61125395/120910279-e4fe1300-c67d-11eb-885b-80c942e97a98.png)
+  * Contact form:  
+  ![image](https://user-images.githubusercontent.com/61125395/120910290-fc3d0080-c67d-11eb-8466-4c75917f61a1.png)
+ 
 
